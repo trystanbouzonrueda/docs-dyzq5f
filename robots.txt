@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-z21mdt.absolutebeachview.co.nz/sitemap.xml
